@@ -1,0 +1,423 @@
+info: Server Express Puerto 8080 {"timestamp":"2023-09-29T19:52:44.378Z"}
+info: DB connected! {"timestamp":"2023-09-29T19:52:45.089Z"}
+info: An user has logged in. {"timestamp":"2023-09-29T19:52:58.442Z"}
+info: The user has been redirected to the view PRODUCTS for being a User. {"timestamp":"2023-09-29T19:52:58.568Z"}
+http: Someone made a GET request to the endpoint /api/carts {"timestamp":"2023-09-29T19:54:12.122Z"}
+http: Someone made a POST request to the endpoint /api/carts/:cid/product/:pid {"timestamp":"2023-09-29T19:54:12.432Z"}
+http: Someone made a GET request to the endpoint /api/carts {"timestamp":"2023-09-29T19:54:13.419Z"}
+http: Someone made a POST request to the endpoint /api/carts/:cid/product/:pid {"timestamp":"2023-09-29T19:54:13.690Z"}
+http: Someone made a DELETE request to the endpoint /api/carts/:cid {"timestamp":"2023-09-29T19:54:16.885Z"}
+http: Someone made a GET request to the endpoint /api/carts {"timestamp":"2023-09-29T19:54:24.341Z"}
+http: Someone made a POST request to the endpoint /api/carts/:cid/product/:pid {"timestamp":"2023-09-29T19:54:24.614Z"}
+http: Someone made a GET request to the endpoint /api/carts {"timestamp":"2023-09-29T19:54:24.700Z"}
+http: Someone made a POST request to the endpoint /api/carts/:cid/product/:pid {"timestamp":"2023-09-29T19:54:24.962Z"}
+http: Someone made a GET request to the endpoint /api/carts {"timestamp":"2023-09-29T19:54:25.268Z"}
+http: Someone made a POST request to the endpoint /api/carts/:cid/product/:pid {"timestamp":"2023-09-29T19:54:25.553Z"}
+http: Someone made a DELETE request to the endpoint /api/carts/:cid {"timestamp":"2023-09-29T19:54:29.975Z"}
+info: A user has logged out. {"timestamp":"2023-09-29T19:54:34.740Z"}
+info: An user has logged in. {"timestamp":"2023-09-29T19:54:46.349Z"}
+info: The user has been redirected to the view REALTIMEPRODUCTS for being an Administrator. {"timestamp":"2023-09-29T19:54:46.472Z"}
+http: Someone made a POST request to the endpoint /api/products {"timestamp":"2023-09-29T19:55:21.308Z"}
+error: Error: MongoServerError: E11000 duplicate key error collection: ecommerce.products index: _id_ dup key: { _id: ObjectId('65172ba95359b9a2d9be7e35') } {"timestamp":"2023-09-29T19:55:21.483Z"}
+http: Someone made a PUT request to the endpoint /api/products/:id {"timestamp":"2023-09-29T19:56:02.344Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-29T19:59:01.180Z"}
+info: DB connected! {"timestamp":"2023-09-29T19:59:01.856Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-29T20:01:33.865Z"}
+info: DB connected! {"timestamp":"2023-09-29T20:01:34.554Z"}
+http: Someone made a PUT request to the endpoint /api/products/:id {"timestamp":"2023-09-29T20:01:51.431Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-29T20:04:01.443Z"}
+info: DB connected! {"timestamp":"2023-09-29T20:04:02.215Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-29T20:05:43.779Z"}
+info: DB connected! {"timestamp":"2023-09-29T20:05:44.477Z"}
+http: Someone made a DELETE request to the endpoint /api/products/:id {"timestamp":"2023-09-29T20:05:50.283Z"}
+http: Someone made a POST request to the endpoint /api/products {"timestamp":"2023-09-29T20:06:00.774Z"}
+error: Error: MongoServerError: E11000 duplicate key error collection: ecommerce.products index: _id_ dup key: { _id: ObjectId('65172e28b91ac39afcf584f1') } {"timestamp":"2023-09-29T20:06:00.939Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-29T20:08:46.539Z"}
+info: DB connected! {"timestamp":"2023-09-29T20:08:47.408Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-29T20:08:59.033Z"}
+info: DB connected! {"timestamp":"2023-09-29T20:08:59.544Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-29T20:09:35.694Z"}
+info: DB connected! {"timestamp":"2023-09-29T20:09:36.236Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-29T20:10:46.436Z"}
+info: DB connected! {"timestamp":"2023-09-29T20:10:47.100Z"}
+http: Someone made a PUT request to the endpoint /api/products/:id {"timestamp":"2023-09-29T20:11:48.896Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-29T20:12:04.242Z"}
+info: DB connected! {"timestamp":"2023-09-29T20:12:04.941Z"}
+http: Someone made a PUT request to the endpoint /api/products/:id {"timestamp":"2023-09-29T20:12:34.707Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-29T20:12:53.280Z"}
+info: DB connected! {"timestamp":"2023-09-29T20:12:53.852Z"}
+http: Someone made a PUT request to the endpoint /api/products/:id {"timestamp":"2023-09-29T20:13:11.489Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-29T20:13:21.715Z"}
+info: DB connected! {"timestamp":"2023-09-29T20:13:22.244Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-29T20:14:00.498Z"}
+info: DB connected! {"timestamp":"2023-09-29T20:14:01.035Z"}
+http: Someone made a DELETE request to the endpoint /api/products/:id {"timestamp":"2023-09-29T20:14:36.481Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-29T20:16:40.076Z"}
+info: DB connected! {"timestamp":"2023-09-29T20:16:41.032Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-29T20:18:46.798Z"}
+info: DB connected! {"timestamp":"2023-09-29T20:18:47.460Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-29T20:19:07.778Z"}
+info: DB connected! {"timestamp":"2023-09-29T20:19:08.374Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-29T20:19:53.932Z"}
+info: DB connected! {"timestamp":"2023-09-29T20:19:54.749Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-29T20:20:22.493Z"}
+info: DB connected! {"timestamp":"2023-09-29T20:20:23.179Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-29T20:20:40.948Z"}
+info: DB connected! {"timestamp":"2023-09-29T20:20:41.537Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-29T20:35:42.503Z"}
+info: DB connected! {"timestamp":"2023-09-29T20:35:43.088Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-29T20:36:52.849Z"}
+info: DB connected! {"timestamp":"2023-09-29T20:36:53.643Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-29T20:41:54.108Z"}
+info: DB connected! {"timestamp":"2023-09-29T20:41:54.711Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-29T20:42:06.299Z"}
+info: DB connected! {"timestamp":"2023-09-29T20:42:06.816Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-29T20:42:54.953Z"}
+info: DB connected! {"timestamp":"2023-09-29T20:42:55.653Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-29T20:43:27.383Z"}
+info: DB connected! {"timestamp":"2023-09-29T20:43:27.881Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-29T20:43:33.845Z"}
+info: DB connected! {"timestamp":"2023-09-29T20:43:34.351Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-29T20:51:20.320Z"}
+info: DB connected! {"timestamp":"2023-09-29T20:51:21.003Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-29T20:54:27.517Z"}
+info: DB connected! {"timestamp":"2023-09-29T20:54:28.135Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-29T20:54:51.187Z"}
+info: DB connected! {"timestamp":"2023-09-29T20:54:51.831Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-29T20:56:47.748Z"}
+info: DB connected! {"timestamp":"2023-09-29T20:56:48.298Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-29T20:58:04.333Z"}
+info: DB connected! {"timestamp":"2023-09-29T20:58:04.947Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-29T20:58:48.132Z"}
+info: DB connected! {"timestamp":"2023-09-29T20:58:48.669Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-29T20:59:12.706Z"}
+info: DB connected! {"timestamp":"2023-09-29T20:59:13.283Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-29T21:00:49.887Z"}
+info: DB connected! {"timestamp":"2023-09-29T21:00:50.641Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-29T21:04:20.781Z"}
+info: DB connected! {"timestamp":"2023-09-29T21:04:21.379Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-29T21:17:42.562Z"}
+info: DB connected! {"timestamp":"2023-09-29T21:17:43.212Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-29T21:19:14.895Z"}
+info: DB connected! {"timestamp":"2023-09-29T21:19:15.530Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-29T21:20:15.519Z"}
+info: DB connected! {"timestamp":"2023-09-29T21:20:16.230Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-29T21:20:54.667Z"}
+info: DB connected! {"timestamp":"2023-09-29T21:20:55.234Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-29T21:21:04.906Z"}
+info: DB connected! {"timestamp":"2023-09-29T21:21:05.566Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-29T21:21:42.190Z"}
+info: DB connected! {"timestamp":"2023-09-29T21:21:42.651Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-29T21:23:09.389Z"}
+info: DB connected! {"timestamp":"2023-09-29T21:23:10.089Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-29T21:24:13.479Z"}
+info: DB connected! {"timestamp":"2023-09-29T21:24:14.093Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-29T21:24:38.238Z"}
+info: DB connected! {"timestamp":"2023-09-29T21:24:38.907Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-29T21:25:15.729Z"}
+info: DB connected! {"timestamp":"2023-09-29T21:25:16.331Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-29T21:25:29.918Z"}
+info: DB connected! {"timestamp":"2023-09-29T21:25:30.647Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-29T21:25:43.081Z"}
+info: DB connected! {"timestamp":"2023-09-29T21:25:43.576Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-29T21:25:49.426Z"}
+info: DB connected! {"timestamp":"2023-09-29T21:25:49.914Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-29T21:26:14.341Z"}
+info: DB connected! {"timestamp":"2023-09-29T21:26:14.858Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-29T21:26:27.751Z"}
+info: DB connected! {"timestamp":"2023-09-29T21:26:28.244Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-29T21:27:08.712Z"}
+info: DB connected! {"timestamp":"2023-09-29T21:27:10.125Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-29T21:28:58.073Z"}
+info: DB connected! {"timestamp":"2023-09-29T21:28:58.917Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-29T21:36:58.326Z"}
+info: DB connected! {"timestamp":"2023-09-29T21:36:58.906Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-29T21:37:30.202Z"}
+info: DB connected! {"timestamp":"2023-09-29T21:37:31.884Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-29T21:38:18.046Z"}
+info: DB connected! {"timestamp":"2023-09-29T21:38:18.624Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-29T21:38:26.860Z"}
+info: DB connected! {"timestamp":"2023-09-29T21:38:27.361Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-29T21:39:16.074Z"}
+info: DB connected! {"timestamp":"2023-09-29T21:39:16.663Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-29T21:39:34.023Z"}
+info: DB connected! {"timestamp":"2023-09-29T21:39:34.599Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-29T21:40:20.898Z"}
+info: DB connected! {"timestamp":"2023-09-29T21:40:21.438Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-29T21:40:48.055Z"}
+info: DB connected! {"timestamp":"2023-09-29T21:40:48.645Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-29T21:44:48.933Z"}
+info: DB connected! {"timestamp":"2023-09-29T21:44:49.509Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-29T21:54:01.045Z"}
+info: DB connected! {"timestamp":"2023-09-29T21:54:01.753Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-29T21:57:36.190Z"}
+info: DB connected! {"timestamp":"2023-09-29T21:57:36.909Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-29T21:57:49.304Z"}
+info: DB connected! {"timestamp":"2023-09-29T21:57:49.965Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-29T21:59:06.217Z"}
+info: DB connected! {"timestamp":"2023-09-29T21:59:06.888Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-29T21:59:26.316Z"}
+info: DB connected! {"timestamp":"2023-09-29T21:59:26.850Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-29T22:01:04.706Z"}
+info: DB connected! {"timestamp":"2023-09-29T22:01:05.395Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-29T22:02:20.361Z"}
+info: DB connected! {"timestamp":"2023-09-29T22:02:20.993Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-29T22:05:00.424Z"}
+info: DB connected! {"timestamp":"2023-09-29T22:05:00.975Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-29T22:05:44.682Z"}
+info: DB connected! {"timestamp":"2023-09-29T22:05:45.227Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-29T22:06:13.399Z"}
+info: DB connected! {"timestamp":"2023-09-29T22:06:13.948Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-29T22:07:05.235Z"}
+info: DB connected! {"timestamp":"2023-09-29T22:07:05.849Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-29T22:07:10.437Z"}
+info: DB connected! {"timestamp":"2023-09-29T22:07:11.056Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-29T22:07:30.741Z"}
+info: DB connected! {"timestamp":"2023-09-29T22:07:31.273Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-29T22:11:06.348Z"}
+info: DB connected! {"timestamp":"2023-09-29T22:11:07.038Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-29T22:11:29.709Z"}
+info: DB connected! {"timestamp":"2023-09-29T22:11:30.247Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-29T22:11:41.329Z"}
+info: DB connected! {"timestamp":"2023-09-29T22:11:41.864Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-29T22:15:01.162Z"}
+info: DB connected! {"timestamp":"2023-09-29T22:15:01.824Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-29T22:15:25.426Z"}
+info: DB connected! {"timestamp":"2023-09-29T22:15:25.889Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-29T22:16:23.829Z"}
+info: DB connected! {"timestamp":"2023-09-29T22:16:24.412Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-29T22:16:44.532Z"}
+info: DB connected! {"timestamp":"2023-09-29T22:16:45.054Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-29T22:19:00.799Z"}
+info: DB connected! {"timestamp":"2023-09-29T22:19:01.450Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-29T22:20:31.451Z"}
+info: DB connected! {"timestamp":"2023-09-29T22:20:32.134Z"}
+http: Someone made a GET request to the endpoint /api/carts/:cid {"timestamp":"2023-09-29T22:20:59.849Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-29T22:22:43.530Z"}
+info: DB connected! {"timestamp":"2023-09-29T22:22:44.085Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-29T22:23:58.061Z"}
+info: DB connected! {"timestamp":"2023-09-29T22:23:58.767Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-29T22:25:10.877Z"}
+info: DB connected! {"timestamp":"2023-09-29T22:25:11.433Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-29T22:30:07.659Z"}
+info: DB connected! {"timestamp":"2023-09-29T22:30:08.223Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-29T23:46:58.081Z"}
+info: DB connected! {"timestamp":"2023-09-29T23:46:58.587Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-29T23:47:13.493Z"}
+info: DB connected! {"timestamp":"2023-09-29T23:47:13.973Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-29T23:47:27.801Z"}
+info: DB connected! {"timestamp":"2023-09-29T23:47:28.283Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-29T23:47:53.106Z"}
+info: DB connected! {"timestamp":"2023-09-29T23:47:53.581Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-29T23:48:28.239Z"}
+info: DB connected! {"timestamp":"2023-09-29T23:48:28.718Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-29T23:48:53.258Z"}
+info: DB connected! {"timestamp":"2023-09-29T23:48:53.845Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-29T23:49:09.676Z"}
+info: DB connected! {"timestamp":"2023-09-29T23:49:10.187Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-29T23:50:36.491Z"}
+info: DB connected! {"timestamp":"2023-09-29T23:50:37.092Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-29T23:50:58.318Z"}
+info: DB connected! {"timestamp":"2023-09-29T23:50:58.854Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-29T23:51:19.014Z"}
+info: DB connected! {"timestamp":"2023-09-29T23:51:19.515Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-29T23:51:30.225Z"}
+info: DB connected! {"timestamp":"2023-09-29T23:51:30.738Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-29T23:51:57.690Z"}
+info: DB connected! {"timestamp":"2023-09-29T23:51:58.172Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-29T23:52:20.415Z"}
+info: DB connected! {"timestamp":"2023-09-29T23:52:20.902Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-29T23:55:05.751Z"}
+info: DB connected! {"timestamp":"2023-09-29T23:55:06.381Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-29T23:55:56.342Z"}
+info: DB connected! {"timestamp":"2023-09-29T23:55:56.916Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-29T23:56:08.166Z"}
+info: DB connected! {"timestamp":"2023-09-29T23:56:08.763Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-29T23:58:10.828Z"}
+info: DB connected! {"timestamp":"2023-09-29T23:58:11.330Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-29T23:58:41.193Z"}
+info: DB connected! {"timestamp":"2023-09-29T23:58:41.687Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-30T00:01:39.057Z"}
+info: DB connected! {"timestamp":"2023-09-30T00:01:39.604Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-30T00:03:36.882Z"}
+info: DB connected! {"timestamp":"2023-09-30T00:03:37.399Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-30T00:04:36.230Z"}
+info: DB connected! {"timestamp":"2023-09-30T00:04:42.958Z"}
+http: Someone made a GET request to the endpoint /api/carts {"timestamp":"2023-09-30T00:05:15.685Z"}
+http: Someone made a GET request to the endpoint /api/products {"timestamp":"2023-09-30T00:06:29.442Z"}
+http: Someone made a POST request to the endpoint /api/products {"timestamp":"2023-09-30T00:07:58.198Z"}
+info: Al crear un producto deben llenarse los siguientes espacios:
+        - title: Must be a string (string)
+        - description: Must be a string (string)
+        - price: Must be a number (10)
+        - code: Must be a number and unique (4530)
+        - stock: Must be a number (0)
+        - category: Must be a string (string)
+     {"timestamp":"2023-09-30T00:07:58.199Z"}
+http: Someone made a POST request to the endpoint /api/products {"timestamp":"2023-09-30T00:09:07.706Z"}
+info: Al crear un producto deben llenarse los siguientes espacios:
+        - title: Must be a string (Papitas)
+        - description: Must be a string (Es una papita)
+        - price: Must be a number (10)
+        - code: Must be a number and unique (4530)
+        - stock: Must be a number (0)
+        - category: Must be a string (Ortodoxo)
+     {"timestamp":"2023-09-30T00:09:07.707Z"}
+http: Someone made a POST request to the endpoint /api/products {"timestamp":"2023-09-30T00:09:31.278Z"}
+http: Someone made a POST request to the endpoint /api/products {"timestamp":"2023-09-30T00:11:01.635Z"}
+http: Someone made a GET request to the endpoint /api/products/:id {"timestamp":"2023-09-30T00:11:43.433Z"}
+http: Someone made a PUT request to the endpoint /api/products/:id {"timestamp":"2023-09-30T00:12:41.031Z"}
+http: Someone made a DELETE request to the endpoint /api/products/:id {"timestamp":"2023-09-30T00:13:19.209Z"}
+http: Someone made a POST request to the endpoint /api/carts {"timestamp":"2023-09-30T00:13:58.912Z"}
+http: Someone made a GET request to the endpoint /api/carts/:cid {"timestamp":"2023-09-30T00:14:40.435Z"}
+info: A user has logged out. {"timestamp":"2023-09-30T00:15:14.047Z"}
+info: An user has logged in. {"timestamp":"2023-09-30T00:15:17.813Z"}
+info: The user has been redirected to the view PRODUCTS for being a User. {"timestamp":"2023-09-30T00:15:17.929Z"}
+http: Someone made a GET request to the endpoint /api/carts {"timestamp":"2023-09-30T00:15:19.657Z"}
+http: Someone made a POST request to the endpoint /api/carts/:cid/product/:pid {"timestamp":"2023-09-30T00:15:19.920Z"}
+http: Someone made a GET request to the endpoint /api/carts {"timestamp":"2023-09-30T00:15:19.996Z"}
+http: Someone made a POST request to the endpoint /api/carts/:cid/product/:pid {"timestamp":"2023-09-30T00:15:20.279Z"}
+http: Someone made a GET request to the endpoint /api/carts {"timestamp":"2023-09-30T00:15:20.285Z"}
+http: Someone made a POST request to the endpoint /api/carts/:cid/product/:pid {"timestamp":"2023-09-30T00:15:20.547Z"}
+http: Someone made a GET request to the endpoint /api/carts {"timestamp":"2023-09-30T00:15:20.603Z"}
+http: Someone made a POST request to the endpoint /api/carts/:cid/product/:pid {"timestamp":"2023-09-30T00:15:20.865Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-30T00:17:57.717Z"}
+info: DB connected! {"timestamp":"2023-09-30T00:17:58.375Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-30T00:18:22.229Z"}
+info: DB connected! {"timestamp":"2023-09-30T00:18:22.890Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-30T00:18:44.428Z"}
+info: DB connected! {"timestamp":"2023-09-30T00:18:45.260Z"}
+http: Someone made a PUT request to the endpoint /api/carts/:cid {"timestamp":"2023-09-30T00:20:08.074Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-30T00:28:31.706Z"}
+info: DB connected! {"timestamp":"2023-09-30T00:28:32.322Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-30T00:29:19.710Z"}
+info: DB connected! {"timestamp":"2023-09-30T00:29:20.262Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-30T00:30:13.728Z"}
+info: DB connected! {"timestamp":"2023-09-30T00:30:14.393Z"}
+http: Someone made a POST request to the endpoint /api/carts/:cid/product/:pid {"timestamp":"2023-09-30T00:31:07.527Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-30T00:32:49.752Z"}
+info: DB connected! {"timestamp":"2023-09-30T00:32:50.337Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-30T00:33:00.985Z"}
+info: DB connected! {"timestamp":"2023-09-30T00:33:01.658Z"}
+http: Someone made a DELETE request to the endpoint /api/carts/:cid {"timestamp":"2023-09-30T00:34:18.844Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-30T00:35:59.478Z"}
+info: DB connected! {"timestamp":"2023-09-30T00:36:00.150Z"}
+http: Someone made a DELETE request to the endpoint /api/carts/:cid {"timestamp":"2023-09-30T00:36:12.758Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-30T00:36:57.349Z"}
+info: DB connected! {"timestamp":"2023-09-30T00:36:57.949Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-30T00:37:16.851Z"}
+info: DB connected! {"timestamp":"2023-09-30T00:37:17.495Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-30T00:39:47.942Z"}
+info: DB connected! {"timestamp":"2023-09-30T00:39:48.750Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-30T00:40:24.486Z"}
+info: DB connected! {"timestamp":"2023-09-30T00:40:25.104Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-30T00:41:18.610Z"}
+info: DB connected! {"timestamp":"2023-09-30T00:41:19.284Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-30T00:44:59.193Z"}
+info: DB connected! {"timestamp":"2023-09-30T00:45:00.740Z"}
+http: Someone made a GET request to the endpoint /api/carts {"timestamp":"2023-09-30T00:45:34.967Z"}
+http: Someone made a GET request to the endpoint /api/carts {"timestamp":"2023-09-30T00:45:35.229Z"}
+http: Someone made a POST request to the endpoint /api/carts/:cid/product/:pid {"timestamp":"2023-09-30T00:45:35.263Z"}
+http: Someone made a POST request to the endpoint /api/carts/:cid/product/:pid {"timestamp":"2023-09-30T00:45:35.494Z"}
+http: Someone made a GET request to the endpoint /api/carts {"timestamp":"2023-09-30T00:45:35.496Z"}
+http: Someone made a POST request to the endpoint /api/carts/:cid/product/:pid {"timestamp":"2023-09-30T00:45:35.764Z"}
+http: Someone made a GET request to the endpoint /api/carts {"timestamp":"2023-09-30T00:45:35.984Z"}
+http: Someone made a POST request to the endpoint /api/carts/:cid/product/:pid {"timestamp":"2023-09-30T00:45:36.245Z"}
+http: Someone made a POST request to the endpoint /api/carts/:cid/purchase {"timestamp":"2023-09-30T00:45:46.250Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-30T00:48:59.361Z"}
+info: DB connected! {"timestamp":"2023-09-30T00:49:00.418Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-30T00:52:48.288Z"}
+info: DB connected! {"timestamp":"2023-09-30T00:52:48.891Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-30T00:53:25.961Z"}
+info: DB connected! {"timestamp":"2023-09-30T00:53:26.474Z"}
+http: Someone made a GET request to the endpoint /api/carts {"timestamp":"2023-09-30T00:53:37.061Z"}
+http: Someone made a POST request to the endpoint /api/carts/:cid/product/:pid {"timestamp":"2023-09-30T00:53:37.346Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-30T00:55:22.896Z"}
+info: DB connected! {"timestamp":"2023-09-30T00:55:23.504Z"}
+http: Someone made a PUT request to the endpoint /api/carts/:cid/products/:pid {"timestamp":"2023-09-30T00:55:28.082Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-30T00:59:04.416Z"}
+info: DB connected! {"timestamp":"2023-09-30T00:59:04.980Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-30T01:00:30.852Z"}
+info: DB connected! {"timestamp":"2023-09-30T01:00:31.489Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-30T01:01:10.046Z"}
+info: DB connected! {"timestamp":"2023-09-30T01:01:10.804Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-30T01:02:23.098Z"}
+info: DB connected! {"timestamp":"2023-09-30T01:02:23.774Z"}
+http: Someone made a DELETE request to the endpoint /api/carts/:cid/products/:pid {"timestamp":"2023-09-30T01:03:33.974Z"}
+info: A user has logged out. {"timestamp":"2023-09-30T01:35:25.037Z"}
+info: An user has logged in. {"timestamp":"2023-09-30T01:35:29.313Z"}
+info: The user has been redirected to the view REALTIMEPRODUCTS for being an Administrator. {"timestamp":"2023-09-30T01:35:29.436Z"}
+http: Someone made a PUT request to the endpoint /api/products/:id {"timestamp":"2023-09-30T01:36:17.202Z"}
+http: Someone made a PUT request to the endpoint /api/products/:id {"timestamp":"2023-09-30T01:36:46.545Z"}
+info: A user has logged out. {"timestamp":"2023-09-30T01:37:28.201Z"}
+info: An user has logged in. {"timestamp":"2023-09-30T01:37:31.667Z"}
+info: The user has been redirected to the view PRODUCTS for being a User. {"timestamp":"2023-09-30T01:37:31.789Z"}
+http: Someone made a GET request to the endpoint /api/products {"timestamp":"2023-09-30T01:37:39.895Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-30T01:38:34.253Z"}
+info: DB connected! {"timestamp":"2023-09-30T01:38:34.881Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-30T01:38:51.575Z"}
+info: DB connected! {"timestamp":"2023-09-30T01:38:52.291Z"}
+http: Someone made a POST request to the endpoint /api/products {"timestamp":"2023-09-30T01:39:23.236Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-30T01:40:25.171Z"}
+info: DB connected! {"timestamp":"2023-09-30T01:40:25.880Z"}
+http: Someone made a GET request to the endpoint /api/products/:id {"timestamp":"2023-09-30T01:41:00.493Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-30T01:41:42.362Z"}
+info: DB connected! {"timestamp":"2023-09-30T01:41:42.938Z"}
+http: Someone made a PUT request to the endpoint /api/products/:id {"timestamp":"2023-09-30T01:42:39.861Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-30T01:43:31.531Z"}
+info: DB connected! {"timestamp":"2023-09-30T01:43:32.161Z"}
+http: Someone made a DELETE request to the endpoint /api/products/:id {"timestamp":"2023-09-30T01:43:55.494Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-30T01:44:43.149Z"}
+info: DB connected! {"timestamp":"2023-09-30T01:44:43.754Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-30T01:47:13.349Z"}
+info: DB connected! {"timestamp":"2023-09-30T01:47:13.937Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-30T01:47:56.408Z"}
+info: DB connected! {"timestamp":"2023-09-30T01:47:57.077Z"}
+http: Someone made a POST request to the endpoint /api/products {"timestamp":"2023-09-30T01:49:01.871Z"}
+info: Al crear un producto deben llenarse los siguientes espacios:
+        - title: Must be a string (string)
+        - description: Must be a string (string)
+        - price: Must be a number (0)
+        - code: Must be a number and unique (0)
+        - stock: Must be a number (0)
+        - category: Must be a string (string)
+     {"timestamp":"2023-09-30T01:49:01.872Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-30T01:49:23.548Z"}
+info: DB connected! {"timestamp":"2023-09-30T01:49:24.136Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-30T01:50:52.237Z"}
+info: DB connected! {"timestamp":"2023-09-30T01:50:52.866Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-30T01:51:42.791Z"}
+info: DB connected! {"timestamp":"2023-09-30T01:51:43.386Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-30T01:52:13.017Z"}
+info: DB connected! {"timestamp":"2023-09-30T01:52:13.563Z"}
+http: Someone made a GET request to the endpoint /api/carts {"timestamp":"2023-09-30T01:53:22.925Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-30T01:53:46.369Z"}
+info: DB connected! {"timestamp":"2023-09-30T01:53:46.960Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-30T01:55:26.711Z"}
+info: DB connected! {"timestamp":"2023-09-30T01:55:27.264Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-30T01:55:54.635Z"}
+info: DB connected! {"timestamp":"2023-09-30T01:55:55.156Z"}
+http: Someone made a GET request to the endpoint /api/carts {"timestamp":"2023-09-30T01:56:00.216Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-30T01:56:54.712Z"}
+info: DB connected! {"timestamp":"2023-09-30T01:56:55.402Z"}
+http: Someone made a POST request to the endpoint /api/carts {"timestamp":"2023-09-30T01:57:15.278Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-30T01:58:01.477Z"}
+info: DB connected! {"timestamp":"2023-09-30T01:58:02.076Z"}
+http: Someone made a GET request to the endpoint /api/carts/:cid {"timestamp":"2023-09-30T01:59:05.398Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-30T02:00:19.669Z"}
+info: DB connected! {"timestamp":"2023-09-30T02:00:20.325Z"}
+http: Someone made a GET request to the endpoint /api/carts {"timestamp":"2023-09-30T02:00:55.637Z"}
+http: Someone made a POST request to the endpoint /api/carts/:cid/product/:pid {"timestamp":"2023-09-30T02:00:55.929Z"}
+http: Someone made a PUT request to the endpoint /api/carts/:cid {"timestamp":"2023-09-30T02:01:44.450Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-30T02:03:18.941Z"}
+info: DB connected! {"timestamp":"2023-09-30T02:03:19.524Z"}
+http: Someone made a DELETE request to the endpoint /api/carts/:cid {"timestamp":"2023-09-30T02:03:53.523Z"}
+http: Someone made a POST request to the endpoint /api/carts/:cid/product/:pid {"timestamp":"2023-09-30T02:04:29.977Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-30T02:05:37.819Z"}
+info: DB connected! {"timestamp":"2023-09-30T02:05:38.429Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-30T02:07:34.854Z"}
+info: DB connected! {"timestamp":"2023-09-30T02:07:35.445Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-30T02:08:13.256Z"}
+info: DB connected! {"timestamp":"2023-09-30T02:08:13.780Z"}
+info: Server Express Puerto 8080 {"timestamp":"2023-09-30T02:08:43.519Z"}
+info: DB connected! {"timestamp":"2023-09-30T02:08:44.080Z"}
